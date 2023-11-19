@@ -7,9 +7,15 @@
   
   .cards__title{
     margin:0 0 16px 0;
+    line-height: 1.15;
+    font-size: 24px;
+    font-weight: 600;
   }
   .cards__description{
     margin:0;
+    line-height: 23px;
+    font-size: 18px;
+    font-weight: normal;
   }
   
   .cards__item{
@@ -25,16 +31,4 @@
     flex-wrap: wrap;
     margin: auto;
     column-gap:100px;
-  }
-  
-  .cards__title{
-    line-height: 1.15;
-    font-size: 24px;
-    font-weight: 600;
-  }
-  
-  .cards__description{
-    line-height: 23px;
-    font-size: 18px;
-    font-weight: normal;
   }

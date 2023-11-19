@@ -1,0 +1,24 @@
+.header__square-pic{
+    animation-name: rotation;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+    animation-timing-function:linear;
+}
+.kaufman__triangle{
+  animation-name: rotation;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-play-state: running;
+  animation-timing-function:linear;
+}
+
+@keyframes rotation {
+    transform-
+    0% {
+        transform: rotate(0);
+      }
+      100% {
+        transform: rotate(360deg);
+      }
+}

@@ -1,0 +1,18 @@
+.resources {
+    padding-top: 100px;
+}
+.resources__logo-zone{
+    margin: 80px auto 217px auto;
+    width: 1100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .resources__link{
+    width: 270px;
+    height: 38px;
+  }
+  .resources__link-image{
+    width: inherit;
+    height: inherit;
+  }

@@ -1,0 +1,24 @@
+.section-title_theme_dark {
+  width: 60%;
+  color: white;
+  padding-top: 90px;
+  margin-top: 0;
+  position: relative;
+  z-index: 2;
+}
+
+.section-subtitle_theme_dark {
+  width: 60%;
+  color: white;
+  margin-top: 20px;
+  position: relative;
+  z-index: 2;
+}
+
+/* и элемента с модификатором вида ключ-значение */
+.table__cell_theme_dark {
+  color: white;
+  margin-top: 80px;
+  width: 200px;
+  z-index: 2;
+}

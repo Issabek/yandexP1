@@ -1,0 +1,14 @@
+.two-columns__paragraph {
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+}
+/* убрали верхний отступ у первого абзаца */
+.two-columns__paragraph:first-child {
+    margin-top: 0;
+}
+
+/* убрали нижний отступ у последнего абзаца */
+.two-columns__paragraph:last-child {
+    margin-bottom: 0;
+}

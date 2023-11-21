@@ -1,0 +1,8 @@
+.two-columns {
+    /* разметка и позиционирование содержимого секции description */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+}

@@ -8,3 +8,8 @@
     /* выше для экранов больше 1600px отцентрировали весь контент */
     font-family: 'Helvetica Neue', Arial, sans-serif;
 }
+.text-centered {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}

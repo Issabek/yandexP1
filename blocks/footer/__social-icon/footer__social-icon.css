@@ -1,0 +1,10 @@
+.footer__social-icon {
+  height: 16px;
+  width: 16px;
+  display: inline-block;
+  padding-right: 10px;
+}
+
+.footer__social-icon {
+  color: white;
+}
